@@ -1,2 +1,2 @@
 # Cssbasics
-basic codes of css for default branch
+basic codes of css for feature branch
